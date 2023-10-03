@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Matteias Collet"]
   spec.email = ["matteias.collet@protonmail.ch"]
 
-  spec.summary = %q{CloudFoundry message splitter for Fluentd}
+  spec.summary = %q{Message splitter filter for Fluentd}
   spec.description = spec.summary
   spec.homepage = "https://github.com/bitpatty/fluent-plugin-filter-split-message"
   spec.license = "MIT"

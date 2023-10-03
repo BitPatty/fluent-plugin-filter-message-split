@@ -1,5 +1,5 @@
 {
-	"name": "Fluent Plugin Parser CloudFoundry",
+	"name": "Fluent Plugin Filter Message Splitter",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
