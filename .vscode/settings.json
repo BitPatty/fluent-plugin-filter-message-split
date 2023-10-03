@@ -1,0 +1,21 @@
+{
+  "files.autoSave": "off",
+  "breadcrumbs.symbolSortOrder": "type",
+  "editor.codeLens": true,
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.maxColumn": 150,
+  "editor.tabSize": 2,
+  "explorer.confirmDragAndDrop": false,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "html.format.wrapLineLength": 150,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.referencesCodeLens.showOnAllFunctions": true,
+  "typescript.reportStyleChecksAsWarnings": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false
+}

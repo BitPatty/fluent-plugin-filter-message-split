@@ -1,0 +1,17 @@
+{
+	"name": "Fluent Plugin Parser CloudFoundry",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode":{
+			"extensions": [
+				"rebornix.Ruby",
+				"castwide.solargraph",
+				"jnbt.vscode-rufo"
+			]
+		}
+	},
+	"remoteUser": "vscode",
+	"postCreateCommand": "bash -i .devcontainer/post-create.sh"
+}
